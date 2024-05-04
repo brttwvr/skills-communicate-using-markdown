@@ -16,6 +16,11 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Added H1 - H6 headers. 
 Added image.
 Added code block.
+Added task list.
