@@ -12,5 +12,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 Added H1 - H6 headers. 
 Added image.
+Added code block.
